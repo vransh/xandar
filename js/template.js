@@ -93,7 +93,7 @@
 		//Counters
 
 		// counter finished Projects
-		var maxfPVal = 228;
+		var maxfPVal = 28;
 		var ifP = parseInt($('.fpVal').text());
 		var timfP;
 		function runfP() {
